@@ -1,0 +1,20 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: rgb(208, 240, 253);
+}
+
+h3 {
+  color: #44069c;
+}
+h1{
+  color : #f99c40;
+  text-transform :capitalize ;
+}
+#yt{
+  border-width: 40px ;
+}
+
+p {
+  font-size: 14px;
+  line-height: 1.5;
+}
