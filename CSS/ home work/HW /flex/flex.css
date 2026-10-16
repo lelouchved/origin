@@ -1,0 +1,17 @@
+#container{
+    height: 600px;
+    background-color: aquamarine;
+    border:2px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.box{
+    height:35px;
+    width:35px;
+    background-color: yellow;
+    border:2px solid black;
+    text-align: center;
+    padding: 10PX;
+}
